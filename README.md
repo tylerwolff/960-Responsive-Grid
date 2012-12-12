@@ -3,7 +3,7 @@
 
 A simple css **add-on** to the popular 960 grid system that comes with responsive grid defaults for small screens, tablets, and mobile devices. 
 
-The 960 Responsive Grid uses CSS media-queries to do all of the responsive magic. Hopefully this will help people who are looking to make an existing 960 grid site responsive without having to re-do the whole grid system. If you are able to restructure your sites grid there are tons of great systems out there with responsiveness baked in like
+The 960 Responsive Grid uses CSS media-queries to do all of the responsive magic. Hopefully this will help people who are looking to make an existing 960 grid site responsive without having to re-do the whole grid system. If you are able to restructure your sites grid there are tons of great systems out there with responsiveness already baked in.
 
 How To Use It
 -------------
